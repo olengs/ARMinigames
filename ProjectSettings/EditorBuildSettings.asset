@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 92ef89c424366184a9e8e166b91664bb
+  - enabled: 1
+    path: Assets/Scenes/MoleInstructions.unity
+    guid: f56117992be87774bb2dd4fcd37e903a
+  - enabled: 1
+    path: Assets/Scenes/WhackAMole.unity
+    guid: d8cabe4398acff546a1dcfd0b0acecc7
+  - enabled: 1
+    path: Assets/Scenes/MazeInstructions.unity
+    guid: f8ad36b68eccb014885cbd142395bda6
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: b76538501525aef4bae6c5a8ffe527b8
+  - enabled: 1
+    path: Assets/Scenes/MazeGame.unity
+    guid: 846ba2fb09e83bb4998b251ac9cfa542
+  - enabled: 1
+    path: Assets/Scenes/AnchorScene.unity
+    guid: 293303a7c4dc37e4e80e2eaab0242179
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 50b24d24aa521ec4f9bc226c0d68b20b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1d48fc3af3941204c9dd7034dbdec1d9, type: 2}
